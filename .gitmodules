@@ -1,0 +1,6 @@
+[submodule "app/backend"]
+	path = app/backend
+	url = git@gitlab.com:adnanahmady/messenger-laravel.git
+[submodule "app/frontend"]
+	path = app/frontend
+	url = git@gitlab.com:adnanahmady/messenger-react.git
